@@ -24,7 +24,7 @@ const login = ({
           }
           value={pageValue ? otp : number}
           placeholder={pageValue ? "Please Enter OTP" : "Enter Your Number"}
-          type="tel"
+          type="number"
         />
 
         {pageValue ? (
