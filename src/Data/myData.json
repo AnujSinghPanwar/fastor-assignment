@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "location": "Janpath",
+    "hotelName": "Lee maridien",
+    "description": " star Hotel",
+    "image": "https://www.kayak.co.in/rimg/himg/fe/f2/1e/leonardo-2005951-deldm-exterior-7504-hor-clsc_O-505474.jpg?width=2160&height=1215&xhint=1620&yhint=1000&crop=true&outputtype=webp"
+  },
+  {
+    "id": 2,
+    "location": "Connaught Place",
+    "hotelName": "Hotel Oberoi",
+    "description": " star Hotel",
+    "image": "https://i.ndtvimg.com/i/2016-01/oberoi-new-delhi-625-300_625x300_51454167938.jpg",
+    "address": "Diplomatic Enclave, Sardar Patel Marg, New Delhi 110 021"
+  },
+  {
+    "id": 3,
+    "location": "Delhi",
+    "hotelName": "Imperial Hotel",
+    "description": " star Hotel",
+    "image": "https://i0.wp.com/delhishoppingtour.com/wp-content/uploads/2020/01/imperial-hotel.jpg?resize=915%2C515&ssl=1",
+    "address": "1, Janpath, New Delhi 110 001"
+  },
+  {
+    "id": 4,
+    "location": "Chanakyapuri",
+    "hotelName": "ITC Maurya ",
+    "description": " star Hotel",
+    "image": "https://imgcld.yatra.com/ytimages/image/upload/t_seo_Hotel_w_930_h_550_c_fill_g_auto_q_40_f_jpg/v1466566282/Domestic%20Hotels/Hotels_New%20Delhi/ITC%20Maurya/05_Exterior_Panorama.jpg",
+    "address": "Diplomatic Enclave, Sardar Patel Marg, New Delhi 110 021"
+  },
+  {
+    "id": 5,
+    "location": "Janpath",
+    "hotelName": "Shangri La",
+    "description": " star Hotel",
+    "image": "https://imgcld.yatra.com/ytimages/image/upload/t_seo_Hotel_w_930_h_550_c_fill_g_auto_q_40_f_jpg/v1398755926/Domestic%20Hotels/Hotels_New%20Delhi/Shangri-La's%20-%20Eros%20Hotel/Overview.jpg",
+    "address": "19 Ashoka Road, Connaught Place, New Delhi, 110 001"
+  },
+  {
+    "id": 6,
+    "location": "Chanakyapuri",
+    "hotelName": "Hotel Samrat",
+    "description": " star Hotel",
+    "image": "https://content.r9cdn.net/rimg/himg/1e/6a/6e/hotelsdotcom-528128-2ad31a69_w-467334.jpg?width=1200&height=630&crop=true",
+    "address": "Kautilya Marg, Chanakyapuri, New Delhi-110021"
+  },
+  {
+    "id": 7,
+    "location": "Green Park",
+    "hotelName": "Hyatt Regency",
+    "description": " star Hotel",
+    "image": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*SLqaPA1lKdsxxaP3FG03Qg.jpeg",
+    "address": "Bhikaiji Cama Place, Ring Road, New Delhi - 110607"
+  },
+  {
+    "id": 8,
+    "location": "Vasant Vihar",
+    "hotelName": "Jaypee Vasant Continental ",
+    "description": "Hotel Vasant Continental in Delhi is a fine boutique hotel in Delhi by the Jaypee Group. They are a big name in the Real Estate industry. Jaypee Vasant Continental, as it is also called is situated in Vasant Vihar, an upscale locality in the main city.Jaypee Vasant Continental boasts of 119 well appointed guest rooms divided into 3 categories- 11 Suites, 20 Premium Clubs and 22 Club Royal Rooms. Each room has been tastefully furnished with state of the art amenities such as central air conditioning, running hot & cold water, multi-channel music, WI-FI internet, satellite TV, safety deposit lockers, mini refrigerator, direct dial phone, tea & coffee maker and fax among others.",
+    "image": "https://i.ytimg.com/vi/jTQpEmRYoq8/maxresdefault.jpg",
+    "address": "Vasant Vihar, New Delhi 110057"
+  },
+  {
+    "id": 9,
+    "location": "Dhaula Kuan",
+    "hotelName": "Ashok Hotel ",
+    "description": "No hotel symbolizes the traditional grandeur and hospitality of the historic capital of India more than the Ashok, the fist and foremost of Delhi's star hotels and the flagship of the Ashok Group.Set in a prime location of Delhi's Diplomatic Enclave, the Ashok is a familiar and distinctive landmark, its rose-red walls and arched and turreted contours setting it apart from the glass and concrete conformity of other hotels.The Ashok offers a kingly choice of several centrally air-conditioned rooms and suites, most with private balconies, and all the luxuries suites are unmatched for grace and style, each with individually designed interiors. The Ashok is renowned for hosting national and international conventions and conferences. The world of the Ashok offers other pleasures too. A swimming pool set in acres of landscaped lawns, Tennis courts, Jogging tracks, mini golf course, Horse riding and gliding facilities nearby.",
+    "image": "https://itdc.co.in/wp-content/uploads/2019/08/The-Ashok-Banner.png",
+    "address": "Diplomatic Enclave, Chanakayapuri,New Delhi - 110021"
+  },
+  {
+    "id": 10,
+    "location": "New Delhi",
+    "hotelName": "The Leela Palace",
+    "description": "Adjudged as Best of the best hotels by Robb Report 2012, The Leela  Palace, New Delhi is one of the 4 best hotels all across the globe. Located at Diplomatic Enclave, the interior of the hotel oozes out sheer luxury and grand feel. Guests here can take pleasure in all world-class facilities that are offered by the staff of the hotel which will serve you with warm hospitality. The rooms and suites are quite spacious and have all the amenities that one can think of.",
+    "image": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2020/08/IMG_3008.jpg?resize=678%2C452&ssl=1",
+    "address": "Diplomatic Enclave, Chanakyapuri, South Delhi, 110023 New Delhi"
+  },
+  {
+    "id": 11,
+    "location": "Dhaula Kuan",
+    "hotelName": "Ashok Hotel ",
+    "description": "No hotel symbolizes the traditional grandeur and hospitality of the historic capital of India more than the Ashok, the fist and foremost of Delhi's star hotels and the flagship of the Ashok Group.Set in a prime location of Delhi's Diplomatic Enclave, the Ashok is a familiar and distinctive landmark, its rose-red walls and arched and turreted contours setting it apart from the glass and concrete conformity of other hotels.The Ashok offers a kingly choice of several centrally air-conditioned rooms and suites, most with private balconies, and all the luxuries suites are unmatched for grace and style, each with individually designed interiors. The Ashok is renowned for hosting national and international conventions and conferences. The world of the Ashok offers other pleasures too. A swimming pool set in acres of landscaped lawns, Tennis courts, Jogging tracks, mini golf course, Horse riding and gliding facilities nearby.",
+    "image": "https://itdc.co.in/wp-content/uploads/2019/08/The-Ashok-Banner.png",
+    "address": "Diplomatic Enclave, Chanakayapuri,New Delhi - 110021"
+  },
+  {
+    "id": 12,
+    "location": "New Delhi",
+    "hotelName": "The Leela Palace",
+    "description": "Adjudged as Best of the best hotels by Robb Report 2012, The Leela  Palace, New Delhi is one of the 4 best hotels all across the globe. Located at Diplomatic Enclave, the interior of the hotel oozes out sheer luxury and grand feel. Guests here can take pleasure in all world-class facilities that are offered by the staff of the hotel which will serve you with warm hospitality. The rooms and suites are quite spacious and have all the amenities that one can think of.",
+    "image": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2020/08/IMG_3008.jpg?resize=678%2C452&ssl=1",
+    "address": "Diplomatic Enclave, Chanakyapuri, South Delhi, 110023 New Delhi"
+  }
+]
